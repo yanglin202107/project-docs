@@ -4,13 +4,7 @@
     "servers": [
         {
             "name": "主节点",
-            "apiBase": "https://nightplay.live",
-            "region": "hk",
-            "priority": 1
-        },
-              {
-            "name": "主节点",
-            "apiBase": "https://taskira.top",
+            "apiBase": "https://192.168.31.51:8999",
             "region": "hk",
             "priority": 1
         }
