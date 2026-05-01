@@ -1,19 +1,12 @@
 {
-  "version": 1,
-  "updatedAt": "2026-05-01T20:40:44Z",
-  "servers": [
-    {
-      "name": "主节点",
-      "apiBase": "https://api.example.com",
-      "region": "hk",
-      "priority": 1
-    },
-    {
-      "name": "备用节点",
-      "apiBase": "https://api2.example.com",
-      "region": "sg",
-      "priority": 2
-    }
-  ],
-  "sig": "0HEOAEFYJD+wLlADOWbNAsLVI7Eos+H1HZnll4ehPEwNNqewT5dJNC0OGqmGzJB8INT7PJP89MvxyZpc1qH+BA=="
+    "version": 1,
+    "updatedAt": "2026-05-01T20:40:44Z",
+    "servers": [
+        {
+            "name": "主节点",
+            "apiBase": "http://192.168.31.51:8999",
+            "region": "hk",
+            "priority": 1
+        }
+    ]
 }
