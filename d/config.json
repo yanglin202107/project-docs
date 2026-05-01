@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-02T00:00:00Z",
+  "servers": [
+    {
+      "name": "主节点",
+      "apiBase": "https://api.example.com",
+      "webBase": "https://h5.example.com",
+      "region": "hk",
+      "priority": 1
+    },
+    {
+      "name": "备用节点",
+      "apiBase": "https://api2.example.com",
+      "webBase": "https://h5-2.example.com",
+      "region": "sg",
+      "priority": 2
+    }
+  ],
+  "sig": ""
+}
