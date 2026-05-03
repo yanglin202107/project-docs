@@ -1,0 +1,18 @@
+{
+    "version": 1,
+    "updatedAt": "2026-05-01T20:40:44Z",
+    "servers": [
+        {
+            "name": "主节点",
+            "apiBase": "https://nightplay.live",
+            "region": "hk",
+            "priority": 1
+        },
+                {
+            "name": "主节点",
+            "apiBase": "https://nightplay.vip",
+            "region": "hk",
+            "priority": 1
+        }
+    ]
+}
