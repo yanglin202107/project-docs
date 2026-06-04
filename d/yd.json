@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T19:53:25Z",
+  "updatedAt": "2026-06-04T01:30:54Z",
   "servers": [
     {
       "name": "主节点",
@@ -10,7 +10,7 @@
     },
     {
       "name": "主节点",
-      "apiBase": "https://in.nghtplay.live",
+      "apiBase": "https://in.nghtplay.vip",
       "region": "hk",
       "priority": 2
     }
