@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "updatedAt": "2026-06-19T04:20:34Z",
+  "servers": [
+    {
+      "name": "主节点",
+      "apiBase": "https://v2h5.nightcall.vip",
+      "region": "hk",
+      "priority": 1
+    }
+  ]
+}
