@@ -1,10 +1,10 @@
 {
-  "version": 1,
-  "updatedAt": "2026-06-04T10:04:20Z",
+  "version": 2,
+  "updatedAt": "2026-06-22T17:00:18Z",
   "servers": [
     {
       "name": "主节点",
-      "apiBase": "https://h5.nightcall.vip",
+      "apiBase": "https://api.grabluck.cc",
       "region": "hk",
       "priority": 1
     }
