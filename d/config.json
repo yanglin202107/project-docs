@@ -1,13 +1,7 @@
 {
-  "version": 1,
-  "updatedAt": "2026-06-11T08:37:26Z",
+  "version": 2,
+  "updatedAt": "2026-06-22T16:51:56Z",
   "servers": [
-    {
-      "name": "主节点",
-      "apiBase": "https://api.grabluck.cc",
-      "region": "hk",
-      "priority": 1
-    },
     {
       "name": "主节点",
       "apiBase": "https://nightplay.live",
