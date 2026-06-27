@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "updatedAt": "2026-06-27T02:14:06Z",
+  "servers": [
+    {
+      "name": "主节点",
+      "apiBase": "https://api.rewardreels.app",
+      "region": "hk",
+      "priority": 1
+    }
+  ]
+}
