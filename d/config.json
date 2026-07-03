@@ -1,10 +1,10 @@
 {
-  "version": 6,
-  "updatedAt": "2026-07-03T05:18:22Z",
+  "version": 7,
+  "updatedAt": "2026-07-03T05:22:07Z",
   "servers": [
     {
       "name": "主节点",
-      "apiBase": "https://nightvault.vip",
+      "apiBase": "https://api.grabluck.cc",
       "region": "hk",
       "priority": 1
     }
