@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "updatedAt": "2026-07-19T18:06:09Z",
+  "servers": [
+    {
+      "name": "主节点",
+      "apiBase": "https://api.eveningcinema.live",
+      "region": "hk",
+      "priority": 1
+    }
+  ]
+}
