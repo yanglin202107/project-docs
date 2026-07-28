@@ -1,18 +1,12 @@
 {
-  "version": 9,
-  "updatedAt": "2026-07-03T05:28:43Z",
+  "version": 10,
+  "updatedAt": "2026-07-28T15:09:03Z",
   "servers": [
-    {
-      "name": "主节点",
-      "apiBase": "https://voicezone.vip",
-      "region": "hk",
-      "priority": 1
-    },
     {
       "name": "主节点",
       "apiBase": "https://nightroom.cc",
       "region": "hk",
-      "priority": 2
+      "priority": 1
     }
   ]
 }
