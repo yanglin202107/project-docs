@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "updatedAt": "2026-07-31T22:26:48Z",
+  "servers": [
+    {
+      "name": "主节点",
+      "apiBase": "https://api.eveningmood.live",
+      "region": "hk",
+      "priority": 1
+    }
+  ]
+}
