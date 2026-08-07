@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "updatedAt": "2026-08-07T00:18:46Z",
+  "servers": [
+    {
+      "name": "主节点",
+      "apiBase": "https://api.qevora.cc",
+      "region": "hk",
+      "priority": 1
+    }
+  ]
+}
