@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "updatedAt": "2026-08-08T04:16:36Z",
+  "servers": [
+    {
+      "name": "主节点",
+      "apiBase": "https://api.callvix.cc",
+      "region": "hk",
+      "priority": 1
+    }
+  ]
+}
