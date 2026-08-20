@@ -1,10 +1,10 @@
 {
-  "version": 1,
-  "updatedAt": "2026-08-07T00:18:46Z",
+  "version": 2,
+  "updatedAt": "2026-08-20T07:05:08Z",
   "servers": [
     {
       "name": "主节点",
-      "apiBase": "https://api.qevora.cc",
+      "apiBase": "https://streamcircuit.live",
       "region": "hk",
       "priority": 1
     }
