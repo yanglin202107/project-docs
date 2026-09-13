@@ -1,10 +1,11 @@
 {
-  "version": 3,
-  "updatedAt": "2026-09-13T22:01:01Z",
+  "version": 4,
+  "updatedAt": "2026-09-13T22:15:50Z",
   "servers": [
     {
       "name": "主节点",
       "apiBase": "https://api.mavy.cc",
+      "wsUrl": "wss://ws.mavy.cc/api/nplink/v1/device/ws",
       "region": "hk",
       "priority": 1
     }
