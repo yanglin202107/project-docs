@@ -1,6 +1,6 @@
 {
-  "version": 6,
-  "updatedAt": "2026-11-03T22:49:00Z",
+  "version": 7,
+  "updatedAt": "2026-11-03T23:16:07Z",
   "servers": [
     {
       "name": "主节点",
@@ -11,6 +11,16 @@
       "healthUrl": "https://api.mirelix.live/healthz",
       "region": "in",
       "priority": 1
+    },
+    {
+      "name": "AWS GA 受控备用节点",
+      "registrationEndpoint": "https://api.mirelix.live/api/nplink/v1/device/registrations",
+      "ticketEndpoint": "https://api-ga.mirelix.live/api/nplink/v1/device/session-tickets",
+      "configEndpoint": "https://api.mirelix.live/api/nplink/v1/device/config",
+      "wsUrl": "wss://ws-ga.mirelix.live/api/nplink/v1/device/ws",
+      "healthUrl": "https://api.mirelix.live/healthz",
+      "region": "in-ga",
+      "priority": 100
     }
   ]
 }
