@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-06T22:58:29Z",
+  "servers": [
+    {
+      "name": "巴黎主节点",
+      "apiBase": "https://clipwavetv.top",
+      "wsUrl": "wss://clipwavetv.top/api/nplink/v1/device/ws",
+      "region": "fr-africa",
+      "priority": 1
+    }
+  ]
+}
